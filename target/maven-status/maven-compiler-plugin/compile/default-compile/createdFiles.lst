@@ -7,6 +7,7 @@ com\venueos\enums\PackageTier.class
 com\venueos\enums\BookingStatus.class
 com\venueos\security\JwtUtil.class
 com\venueos\entity\InventoryItem.class
+application.properties
 com\venueos\controller\InventoryController.class
 com\venueos\repository\PackageRepository.class
 com\venueos\repository\HallRepository.class
